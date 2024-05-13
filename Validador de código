@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UFT-8">
+	<title> Exemplo de validação  </title>
+</head>
+<body>
+	<h1>Página de exemplo</h1>
+	<p>Esta é uma página de exemplo para demonstrar a validaçãod e HTML.</p>
+	<img src="imagem.jpg" alt="Descrição da imagem"> <!--Suponha que esquecemos de fechar a tag img corretamente -->
+</body>
+</html>
